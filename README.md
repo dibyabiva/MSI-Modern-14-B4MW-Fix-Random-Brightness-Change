@@ -1,0 +1,1 @@
+# MSI-Modern-14-B4MW-Fix-Random-Brightness-Change
